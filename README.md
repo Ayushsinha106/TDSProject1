@@ -1,7 +1,3 @@
-- This script scrapes GitHub user and repository data from Basel with over 10 followers.
-- Basel has a surprising number of high-follower developers for its size.
-- To reach more users, developers should consider using popular languages like Python and JavaScript.
-
-## Project Overview
-This project scrapes GitHub user data for those located in Basel with over 10 followers.
-It saves the user data and repository data into separate CSV files for analysis.
+- Fetch User and repo using the api + token save it to a list of dict an d then to csv.
+- There are more full fledge developer there than the students and approx over 70% accounts were made before 2016 if we considered how Basel look it reasonable more people want to work there And many people has background of physics/chemistry/Biology and theirs repo are related to it.
+- To reach more users, developers should consider learning and getting better at niche languanges like Ruby, Go.
